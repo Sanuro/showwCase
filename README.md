@@ -81,3 +81,4 @@ Implement the screens based off the wireframes and api above using advanced tech
 ![Image of Modal Screen](https://github.com/Showwcase/Showwcase-Intern-React-Challenge/blob/master/MacBook_-_4.jpg)
 
 © 2020 Showcase Creators Inc. All rights reserved. Certain information contained herein is derived from information which is protected by copyrights held by Showcase Creators Inc. This code challenge, including any parts of it, cannot be duplicated, distributed, copied, modified, used to make a derivative work or used in any way without the prior written consent of Showcase Creators Inc.
+# showwCase

@@ -99,7 +99,7 @@ export class MainScreen extends Component<{ name: string }, { isOpen: boolean, m
           <button onClick={this.toggleModal}>Close modal</button>
         </Modal>
         <div id="leftBox">
-          hello left
+          
         </div>
         <div id="browse_college"></div>
         <div id="rightBox">
@@ -116,9 +116,7 @@ export class MainScreen extends Component<{ name: string }, { isOpen: boolean, m
             ))}
 
           </div>
-          <div id="botRight">
-            empty box
-          </div>
+          
         </div>
       </div>
     )

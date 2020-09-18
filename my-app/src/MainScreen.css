@@ -24,10 +24,12 @@ body{
 }
 
 #topRight{
+    font-size: 80%;
     border: 1px solid white;
     padding: 2%;
     height: 40%;
     margin-bottom: 4vh;
+
 }
 
 #botRight{

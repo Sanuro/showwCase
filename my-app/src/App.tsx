@@ -3,6 +3,8 @@ import logo from './logo.svg';
 import './App.css';
 import { Homepage } from './Homepage';
 // import {MainScreen} from './MainScreen';
+// import { Modal } from './Modal';
+
 
 
 function App() {
@@ -11,6 +13,7 @@ function App() {
       <header className="App-header">
         <Homepage />
         {/* <MainScreen/> */}
+        {/* <Modal/> */}
 
 
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
